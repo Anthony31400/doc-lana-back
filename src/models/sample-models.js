@@ -7,3 +7,6 @@ class tableModel {
 }
 
 module.exports = tableModel;
+
+// query selector
+// on peut utiliser plusieurs model pour 1 controller

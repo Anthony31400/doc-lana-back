@@ -15,3 +15,5 @@ class tableController {
         }
     }
 }
+
+// le controller récupère le modèle
